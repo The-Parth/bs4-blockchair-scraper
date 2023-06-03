@@ -1,0 +1,132 @@
+{
+    "amazon.com" : {
+        "currency" : "USD",
+        "domain" : "com",
+        "currencySymbol" : "$"
+    },
+    "amazon.co.uk" : {
+        "currency" : "GBP",
+        "domain" : "co.uk",
+        "currencySymbol" : "£"
+    },
+    "amazon.de" : {
+        "currency" : "EUR",
+        "domain" : "de",
+        "currencySymbol" : "€"
+    },
+    "amazon.fr" : {
+        "currency" : "EUR",
+        "domain" : "fr",
+        "currencySymbol" : "€"
+    },
+    "amazon.es" : {
+        "currency" : "EUR",
+        "domain" : "es",
+        "currencySymbol" : "€"
+    },
+    "amazon.it" : {
+        "currency" : "EUR",
+        "domain" : "it",
+        "currencySymbol" : "€"
+    },
+    "amazon.ca" : {
+        "currency" : "CAD",
+        "domain" : "ca",
+        "currencySymbol" : "$"
+    },
+    "amazon.co.jp" : {
+        "currency" : "JPY",
+        "domain" : "co.jp",
+        "currencySymbol" : "¥"
+    },
+    "amazon.cn" : {
+        "currency" : "CNY",
+        "domain" : "cn",
+        "currencySymbol" : "¥"
+    },
+    "amazon.in" : {
+        "currency" : "INR",
+        "domain" : "in",
+        "currencySymbol" : "₹"
+    },
+    "amazon.com.br" : {
+        "currency" : "BRL",
+        "domain" : "com.br",
+        "currencySymbol" : "R$"
+    },
+    "amazon.com.mx" : {
+        "currency" : "MXN",
+        "domain" : "com.mx",
+        "currencySymbol" : "$"
+    },
+    "amazon.com.au" : {
+        "currency" : "AUD",
+        "domain" : "com.au",
+        "currencySymbol" : "$"
+    },
+    "amazon.nl" : {
+        "currency" : "EUR",
+        "domain" : "nl",
+        "currencySymbol" : "€"
+    },
+    "amazon.com.tr" : {
+        "currency" : "TRY",
+        "domain" : "com.tr",
+        "currencySymbol" : "₺"
+    },
+    "amazon.ae" : {
+        "currency" : "AED",
+        "domain" : "ae",
+        "currencySymbol" : "د.إ"
+    },
+    "amazon.sg" : {
+        "currency" : "SGD",
+        "domain" : "sg",
+        "currencySymbol" : "$"
+    },
+    "amazon.sa" : {
+        "currency" : "SAR",
+        "domain" : "sa",
+        "currencySymbol" : "﷼"
+    },
+    "amazon.com.au" : {
+        "currency" : "AUD",
+        "domain" : "com.au",
+        "currencySymbol" : "$"
+    },
+    "amazon.com.tr" : {
+        "currency" : "TRY",
+        "domain" : "com.tr",
+        "currencySymbol" : "₺"
+    },
+    "amazon.ae" : {
+        "currency" : "AED",
+        "domain" : "ae",
+        "currencySymbol" : "د.إ"
+    },
+    "amazon.sg" : {
+        "currency" : "SGD",
+        "domain" : "sg",
+        "currencySymbol" : "$"
+    },
+    "amazon.sa" : {
+        "currency" : "SAR",
+        "domain" : "sa",
+        "currencySymbol" : "﷼"
+    },
+    "amazon.com.au" : {
+        "currency" : "AUD",
+        "domain" : "com.au",
+        "currencySymbol" : "$"
+    },
+    "amazon.com.tr" : {
+        "currency" : "TRY",
+        "domain" : "com.tr",
+        "currencySymbol" : "₺"
+    },
+    "amazon.ae" : {
+        "currency" : "AED",
+        "domain" : "ae",
+        "currencySymbol" : "د.إ"
+    }
+}
